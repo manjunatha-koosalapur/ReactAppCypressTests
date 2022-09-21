@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user",
+      "password": "user",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "username": "admin",
+      "password": "admin",
+      "role": "admin"
+    }
+  ],
+  "courses": [
+    {
+      "name": "Cypress",
+      "id": 1
+    },
+    {
+      "name": "Mocha",
+      "id": 2
+    },
+    {
+      "name": "Chai",
+      "id": 3
+    },
+    {
+      "name": "TestCafe",
+      "id": 4
+    }
+  ]
+}
